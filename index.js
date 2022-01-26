@@ -8,11 +8,11 @@ const Readline = require('readline')
 const yargs = require('yargs/yargs')
 const rl = Readline.createInterface(process.stdin, process.stdout)
 
-CFonts.say('BOT BY\n ELYAS', {
+CFonts.say('BOT BY\n Klebitz', {
   colors: ['blueBright','yellowBright'],                                        font: 'block',
   align: 'center',
 })
-CFonts.say(`BOT WHATSAPP BY EYAS`, {                                            
+CFonts.say(`BOT WHATSAPP BY Klebitz`, {                                            
 colors: ['yellow'],                                                           
 font: 'console',                                                              align: 'center',
 })
