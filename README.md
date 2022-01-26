@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/5a28bc4534bf122fcc882.jpg" alt="EBOT MD" width="250"/>
+
 
 
 </p>
